@@ -13,8 +13,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=meathirarose&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%"/>

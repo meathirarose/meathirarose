@@ -24,14 +24,14 @@ Software Developer with 3 years of experience building cross-platform mobile and
 </div>
 
 ### 📊 GitHub stats
-<!-- <div align="center">
+<div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=meathirarose&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meathirarose&layout=compact&theme=tokyonight&hide_border=true" />
-</div> -->
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meathirarose&theme=tokyonight&hide_border=true" />
 </div>
+
+<!-- <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meathirarose&theme=tokyonight&hide_border=true" />
+</div> -->
 
 <img src="https://raw.githubusercontent.com/meathirarose/meathirarose/output/snake.svg" width="100%"/>
 

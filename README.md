@@ -33,4 +33,6 @@ Software Developer with 3 years of experience building cross-platform mobile and
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meathirarose&theme=tokyonight&hide_border=true" />
 </div>
 
+<img src="https://raw.githubusercontent.com/meathirarose/meathirarose/output/snake.svg" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
